@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ulList {
+    outline: 2px solid gray;
+    padding: 20px;
+    list-style: none;
+}
